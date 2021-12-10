@@ -19,10 +19,20 @@
 			"logoURI": "https://coin.top/production/upload/logo/TWsN5dHBCeG2hbRTC17YXsV9oDoN4tvmQW.png?t=1608857256223"
 
 		}
+		   ,
+		{
+			"chainId": 1,
+			"address": "TTyfEADA8vYtJ3nfVqgczPYi2KZfwziEZt",
+			"name": "AF0A",
+			"symbol": "AF0A",
+			"decimals": 8,
+			"logoURI": "https://coin.top/production/upload/logo/TWsN5dHBCeG2hbRTC17YXsV9oDoN4tvmQW.png?t=1608857256223"
+
+		}
 	],
 	"version": {
-		"major": 6,
-		"minor": 6,
-		"patch": 6
+		"major": 7,
+		"minor": 7,
+		"patch": 7
 	}
 }
